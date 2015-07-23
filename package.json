@@ -1,5 +1,5 @@
 {
-  "name": "node-sanitize",
+  "name": "sanitize-multiprocess",
   "version": "0.1.0",
   "description": "Sanitize html in workers(subprocesses)",
   "main": "index.js",
